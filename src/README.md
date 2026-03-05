@@ -1,3 +1,4 @@
+# Homework #1 - CSI418Y - Bugra Karaca
 # se-login-signup
 
 Two simple web pages (Login + Signup) built with HTML and CSS.
@@ -8,7 +9,7 @@ Two simple web pages (Login + Signup) built with HTML and CSS.
 - styles.css
 
 ## How to run
-Open `login.html` in a browser. Use the link to navigate to Signup.
+Open `login.html` in a browser.
 
 ## Notes
 - No external frameworks used
